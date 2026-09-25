@@ -1,2 +1,1 @@
-// After deploying the backend on Render, paste its URL here (no trailing slash).
-export const API_URL = "http://localhost:5000";
+export const API_URL = "https://task-manager-t5kq.onrender.com";
